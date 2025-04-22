@@ -1,0 +1,24 @@
+# =============================================================
+# 📌 Programming Avec Reza – YouTube Code Example
+# 🔗 Channel: https://youtube.com/@RezaShahinOfficial?sub_confirmation=1
+#
+# 🎥 For full tutorials and more coding content, subscribe to my channel!
+# 💬 Questions? Leave a comment on the video – I read them all!
+#
+# ✍️ Author: Reza Shahin
+# =============================================================
+
+# String (text)
+name = "Python"
+print("Name:", name)
+print("Type of name:", type(name))
+
+# Integer (whole number)
+age = 10
+print("Age:", age)
+print("Type of age:", type(age))
+
+# Float (decimal number)
+version = 3.11
+print("Version:", version)
+print("Type of version:", type(version))
