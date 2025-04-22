@@ -1,3 +1,13 @@
+# =============================================================
+# 📌 Programming Avec Reza – YouTube Code Example
+# 🔗 Channel: https://youtube.com/@RezaShahinOfficial?sub_confirmation=1
+#
+# 🎥 For full tutorials and more coding content, subscribe to my channel!
+# 💬 Questions? Leave a comment on the video – I read them all!
+#
+# ✍️ Author: Reza Shahin
+# =============================================================
+
 # Ask the user for a number
 num = int(input("Enter a number: "))
 
