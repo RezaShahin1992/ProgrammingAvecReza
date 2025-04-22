@@ -1,0 +1,11 @@
+# Subscribe to my channel for more coding videos:Youtube.com/@RezaShahinOfficial?sub_confirmation=1
+
+# This line prints a greeting
+print("Hello, world!")
+
+# You can print numbers too
+print(42)
+
+# Comments help explain your code
+# This line prints a simple math result
+print(5 + 3)
