@@ -1,0 +1,19 @@
+# =============================================================
+# 📌 Programming Avec Reza – YouTube Code Example
+# 🔗 Channel: https://youtube.com/@RezaShahinOfficial?sub_confirmation=1
+#
+# 🎥 For full tutorials and more coding content, subscribe to my channel!
+# 💬 Questions? Leave a comment on the video – I read them all!
+#
+# ✍️ Author: Reza Shahin
+# =============================================================
+
+# Ask for user age and if they have an account
+age = int(input("Enter your age: "))
+has_account = input("Do you have an account?")
+
+# Check both conditions using 'and'
+if age >= 18 and has_account == "yes":
+    print("Access granted.")
+else:
+    print("Access denied.")
