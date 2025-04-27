@@ -1,0 +1,25 @@
+# =============================================================
+# 📌 Programming Avec Reza – YouTube Code Example
+# 🔗 Channel: https://youtube.com/@RezaShahinOfficial?sub_confirmation=1
+#
+# 🎥 For full tutorials and more coding content, subscribe to my channel!
+# 💬 Questions? Leave a comment on the video – I read them all!
+#
+# ✍️ Author: Dr. Reza Shahin
+# =============================================================
+
+# Ask the user for a number
+num = int(input("Enter a number: "))
+
+# Check if the number is positive
+if num > 0:
+    print("The number is positive.")
+
+# Check if the number is zero
+if num == 0:
+    print("The number is zero.")
+
+# Check if the number is negative
+if num < 0:
+    print("The number is negative.")
+
