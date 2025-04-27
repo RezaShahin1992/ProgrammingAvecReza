@@ -1,0 +1,23 @@
+# =============================================================
+# 📌 Programming Avec Reza – YouTube Code Example
+# 🔗 Channel: https://youtube.com/@RezaShahinOfficial?sub_confirmation=1
+#
+# 🎥 For full tutorials and more coding content, subscribe to my channel!
+# 💬 Questions? Leave a comment on the video – I read them all!
+#
+# ✍️ Author: Reza Shahin
+# =============================================================
+
+# Get two numbers as input
+num1 = input("Enter the first number: ")
+num2 = input("Enter the second number: ")
+
+# Convert inputs to integers
+num1 = int(num1)
+num2 = int(num2)
+
+# Add the numbers
+total = num1 + num2
+
+# Show the result
+print("The sum is:", total)
